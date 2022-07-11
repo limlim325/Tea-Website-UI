@@ -17,7 +17,7 @@ A practice on website User Interface (UI) on three different browser sizes.
 
 The HTML and JS was pre-written. Only had to focus on CSS.
 
-The challanges were design the UI according to phones, tablets, and bigger screens such as laptops.
+The challanges were to design the UI according to phones, tablets, and bigger screens such as laptops.
 
 As the screen size changes, the UI changes to best fit it. Most important was the utilization of space as the screen gets bigger.
 
