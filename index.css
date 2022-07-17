@@ -126,7 +126,7 @@ p {
 }
 
 
-/* Tablet */
+/* Bigger screen sizes */
 
 @media (min-width: 650px) {
     body {
